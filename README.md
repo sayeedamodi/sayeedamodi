@@ -1,3 +1,7 @@
+
+<div align="center">
+ 
+
 # 💫 About Me:
 🌟 Passionate MERN stack developer 🚀<br>🔧 Currently diving into the world of DevOps<br>💡 Eager to learn new technologies and improve skills<br>📈 Focused on building dynamic, scalable applications<br>🛠 Enjoy taking on challenges and finding efficient solutions<br>✅ I can do it or get the work done, that's for sure!
 
@@ -21,5 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sayeedamodi&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
