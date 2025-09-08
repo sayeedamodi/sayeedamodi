@@ -3,7 +3,7 @@
  
 
 # 💫 About Me:
-🌟 Passionate MERN stack developer 🚀<br>🔧 Currently diving into the world of DevOps<br>💡 Eager to learn new technologies and improve skills<br>📈 Focused on building dynamic, scalable applications<br>🛠 Enjoy taking on challenges and finding efficient solutions<br>✅ I can do it or get the work done, that's for sure!
+🌟 Passionate MERN stack developer / Cloud Engineer 🚀<br>🔧 Currently diving into the world of DevOps<br>💡 Eager to learn new technologies and improve skills<br>📈 Focused on building dynamic, scalable applications<br>🛠 Enjoy taking on challenges and finding efficient solutions<br>✅ I can do it or get the work done, that's for sure!
 
 
 ## 🌐 Socials:
